@@ -30,12 +30,12 @@ A full-stack blog web application built using **Node.js/Express** for the backen
 
 ## 🛠️ Tech Stack
 
-| Layer     | Technology                     |
-|-----------|--------------------------------|
-| Backend   | Node.js, Express, JWT, Mongoose or Sequelize |
-| Frontend  | React, Vite, Tailwind CSS (or similar)      |
-| Database  | MongoDB             |
-| Others    | Git, GitHub, REST APIs, File Uploads        |
+| Layer     | Technology                              |
+|-----------|------------------------------------------|
+| Backend   | Node.js, Express, JWT, Mongoose           |
+| Frontend  | React, Vite, Tailwind CSS (or similar)    |
+| Database  | MongoDB                                   |
+| Others    | Git, GitHub, REST APIs, File Uploads      |
 
 ---
 
@@ -44,23 +44,35 @@ A full-stack blog web application built using **Node.js/Express** for the backen
 ### Prerequisites
 - Node.js ≥ 18
 - npm or yarn
-- A MongoDB or SQL database URL (if applicable)
+- A MongoDB database URI (e.g., from MongoDB Atlas)
 
 ### Backend Setup
-```bash
+bash
 cd backend
 npm install
-# Copy .env.example to .env and fill in values (PORT, DB_URI, JWT_SECRET, etc.)
+# Copy .env.example to .env and fill in:
+# PORT=
+# DB_URI=
+# JWT_SECRET=
 npm run dev
-
-### Frontend Setup
-```bash
+Frontend Setup
+bash
+Copy
+Edit
 cd frontend
 npm install
 npm run dev
+# Visit http://localhost:5173 in your browser
 
 ---
 🧑‍💻 Author
 Subhodeep Paramanik
 GitHub: @Subhodeep77
 Working on React, Node.js, and full‑stack apps.
+---
+Let me know if you also want:
+- `.env.example` templates  
+- README badges (e.g., Node version, License, Deployed on Vercel)  
+- Deployment instructions (Vercel + Render)  
+
+Happy coding! 🚀

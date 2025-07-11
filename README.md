@@ -52,3 +52,15 @@ cd backend
 npm install
 # Copy .env.example to .env and fill in values (PORT, DB_URI, JWT_SECRET, etc.)
 npm run dev
+
+### Frontend Setup
+```bash
+cd frontend
+npm install
+npm run dev
+
+---
+🧑‍💻 Author
+Subhodeep Paramanik
+GitHub: @Subhodeep77
+Working on React, Node.js, and full‑stack apps.

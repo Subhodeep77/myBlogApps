@@ -38,26 +38,7 @@ A full-stack blog web application built using **Node.js/Express** for the backen
 | Others    | Git, GitHub, REST APIs, File Uploads      |
 
 ---
-
-## 🔧 Getting Started
-
-### Prerequisites
-- Node.js ≥ 18
-- npm or yarn
-- A MongoDB database URI (e.g., from MongoDB Atlas)
-
-### Backend Setup
--cd backend
--npm install
-
-###Frontend Setup
--cd frontend
--npm install
--npm run dev
-# Visit http://localhost:5173 in your browser
-
----
-🧑‍💻 Author
+## 🧑‍💻 Author
 Subhodeep Paramanik
 GitHub: @Subhodeep77
 Working on React, Node.js, and full‑stack apps.

@@ -6,7 +6,7 @@ A full-stack blog web application built using **Node.js/Express** for the backen
 
 ## 🚀 Live Demo
 
-*(Add link once deployed)*
+*(Will add link once deployed)*
 
 ---
 
@@ -34,7 +34,7 @@ A full-stack blog web application built using **Node.js/Express** for the backen
 |-----------|--------------------------------|
 | Backend   | Node.js, Express, JWT, Mongoose or Sequelize |
 | Frontend  | React, Vite, Tailwind CSS (or similar)      |
-| Database  | MongoDB / PostgreSQL (choose)              |
+| Database  | MongoDB             |
 | Others    | Git, GitHub, REST APIs, File Uploads        |
 
 ---

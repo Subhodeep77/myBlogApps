@@ -39,9 +39,11 @@ A full-stack blog web application built using **Node.js/Express** for the backen
 
 ---
 ## 🧑‍💻 Author
-Subhodeep Paramanik
-GitHub: @Subhodeep77
-Working on React, Node.js, and full‑stack apps.
+
+- Subhodeep Paramanik
+- GitHub: @Subhodeep77
+- Working on React, Node.js, and full‑stack apps.
+
 ---
 Let me know if you also want:
 - `.env.example` templates  

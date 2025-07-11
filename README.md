@@ -47,21 +47,13 @@ A full-stack blog web application built using **Node.js/Express** for the backen
 - A MongoDB database URI (e.g., from MongoDB Atlas)
 
 ### Backend Setup
-bash
-cd backend
-npm install
-# Copy .env.example to .env and fill in:
-# PORT=
-# DB_URI=
-# JWT_SECRET=
-npm run dev
-Frontend Setup
-bash
-Copy
-Edit
-cd frontend
-npm install
-npm run dev
+-cd backend
+-npm install
+
+###Frontend Setup
+-cd frontend
+-npm install
+-npm run dev
 # Visit http://localhost:5173 in your browser
 
 ---
